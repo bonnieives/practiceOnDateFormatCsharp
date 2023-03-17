@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\exerciseDate\exerciseDate\bin\Debug\exerciseDate.exe.config
+C:\Users\Admin\source\repos\exerciseDate\exerciseDate\bin\Debug\exerciseDate.exe
+C:\Users\Admin\source\repos\exerciseDate\exerciseDate\bin\Debug\exerciseDate.pdb
+C:\Users\Admin\source\repos\exerciseDate\exerciseDate\obj\Debug\exerciseDate.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\exerciseDate\exerciseDate\obj\Debug\exerciseDate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\exerciseDate\exerciseDate\obj\Debug\exerciseDate.Form1.resources
+C:\Users\Admin\source\repos\exerciseDate\exerciseDate\obj\Debug\exerciseDate.Properties.Resources.resources
+C:\Users\Admin\source\repos\exerciseDate\exerciseDate\obj\Debug\exerciseDate.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\exerciseDate\exerciseDate\obj\Debug\exerciseDate.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\exerciseDate\exerciseDate\obj\Debug\exerciseDate.exe
+C:\Users\Admin\source\repos\exerciseDate\exerciseDate\obj\Debug\exerciseDate.pdb
